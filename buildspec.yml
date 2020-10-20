@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "skccuser04-book"
+    _PROJECT_NAME: "skccuser04-gateway"
 
 phases:
   install:
